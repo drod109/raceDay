@@ -1,1 +1,2 @@
 # raceDay
+User notification logic
